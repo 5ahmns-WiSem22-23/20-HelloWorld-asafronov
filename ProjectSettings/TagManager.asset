@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Collectable
   layers:
   - Default
   - TransparentFX
@@ -40,4 +41,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Environment
+    uniqueID: 2245346861
+    locked: 0
+  - name: Collectables
+    uniqueID: 1224482847
+    locked: 0
+  - name: Player
+    uniqueID: 2906208853
     locked: 0
